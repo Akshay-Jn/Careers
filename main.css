@@ -1,0 +1,121 @@
+.navbar{
+    height: 100px
+}
+
+.navbar-nav > li > a {
+    color: #A63961;
+    margin-left: 1.1rem;
+    font-size:  14px;
+}
+
+.source-sans-pro{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainText{
+    font-size: 56px;
+    font-family: "Maven Pro", sans-serif;
+    font-weight: 600;
+    color: #A63961;
+}
+
+.mainSubText{
+    font-size: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+    color: #A63961;
+}
+
+.openingsText{
+    border: 2px solid #A63961;
+    border-radius: 0.8em;
+    padding: 6px 10px;
+    color: #A63961;
+}
+
+.teamHeading {
+    color: #A63961;
+    font-family: "Maven Pro Medium", sans-serif;
+}
+
+.teamSubText {
+    color: #A63961;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+
+
+.navbar-transparent .navbar-toggle-icon{
+    background-color: #A63961;
+}
+
+.teamImagesContainer{
+    margin-top: 20px;
+}
+
+.teamImages{
+    width: 250px;
+    margin: 0 15px 15px 15px;
+}
+
+.marginTopHelper{
+    margin-top: 70px;
+}
+
+.mainTextColor{
+    color: #A63961;
+}
+
+.perksContainer{
+    background-color: #A63961;
+    padding: 3em 0px;
+}
+
+.perksContainerEach {
+    padding: 20px;
+    margin: 20px 40px 40px 40px;
+}
+
+.perkHeading{
+    color: white;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+
+
+.perkSubText{
+    color: white;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.footerBackgroundColor{
+    background-color: #A63961;
+    margin: 0px;
+    padding: 1em 0px;
+    border-radius: 0px;
+}
+
+.jobAreaTitle{
+    font-size: 2em;
+}
+
+.jobTitleSide{
+    background-color: #A63961;
+    width: 5px;
+    height: 100%;
+}
+
+.jobTitle{
+    color: #A63961;
+}
+
+
+.onHovering:hover{
+    -webkit-box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.75);
+
+}
+
+.card-header{
+    border-bottom: 1px solid #A63961;
+}
